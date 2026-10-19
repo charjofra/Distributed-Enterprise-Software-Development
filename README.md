@@ -2,7 +2,7 @@
 Group project for DESD\
 Isaiah Denton (24019429)\
 Charlie Fram (24017379)\
-Syed Shah ()\
+Syed Shah (24034374)\
 Sami Mohamed ()\
 Tomos Lock (23022057)
 
