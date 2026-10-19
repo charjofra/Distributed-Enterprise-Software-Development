@@ -8,12 +8,12 @@ Tomos Lock (23022057)
 
 ## Sprint One
 ### Plan and Backlog
-| Task | Assigned To | Status | Priority |
-|------|-------------|--------|----------|
-| Create initial product backlog and sprint plan | Charlie | Completed | Urgent |
-| Create BPMN model representing the enteprise | Isaiah | In progress | High |
-| Identify the two candidate major functionalities | N/A | Not started | Medium |
-| analyse major business processes and organisational responsibilities | N/A | Not Started | Medium |
+| Task | Assigned To | Priority |
+|------|-------------|----------|
+| Create initial product backlog and sprint plan | Charlie / Tomos | Urgent |
+| Create BPMN model representing the enteprise | Everyone | High |
+| Identify the two candidate major functionalities | Isaiah | Medium |
+| analyse major business processes and organisational responsibilities | Sami / Syed | Medium |
 
 ### Business Analysis
 Core Problem: 40 local SMEs/food producers within a 20-mile radius of Bristol face major barriers reaching consumers beyond direct farm gate sales or traditional farmers' markets. Many producers spend up to 15 hours per week managing manual orders via phone and email.
