@@ -3,7 +3,7 @@ Group project for DESD\
 Isaiah Denton (24019429)\
 Charlie Fram (24017379)\
 Syed Shah (24034374)\
-Sami Mohamed ()\
+Sami Mohamed (23039645)\
 Tomos Lock (23022057)
 
 # Sprint One
