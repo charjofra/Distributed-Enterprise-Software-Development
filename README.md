@@ -75,3 +75,7 @@ The proposed digital marketplace connects approximately 40 food producers within
 The two core business processes are **(1) multi vendor ordering, secure payment and supplier fulfilment** and **(2) weekly producer financial settlement and automatic 5% commission distribution**.
 
 **Producers** are responsible for maintaining product information, managing stock, fulfilling orders and reviewing financial settlements. **Customers** are responsible for placing orders, providing accurate information and completing payments. The **Bristol Regional Food Network**, as the assumed marketplace operator, oversees platform operations, financial settlements, commission deductions and regulatory compliance.
+
+### BPMN Model: Strategic Enterprise Overview
+![BPMN Model: Strategic Enterprise Overview](images/BRFN Strategic Enterprice Model.png)
+Figure 1: Strategic BPMN model showing the producer, marketplace, customer and payment provider pools 
