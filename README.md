@@ -85,4 +85,4 @@ Figure 1: Strategic BPMN model showing the producer, marketplace, customer and p
 ![SD Diagram](images/SD%20Diagram.png)
 
 ### SR Diagram
-![SR Diagram](iamges/SR%20Diagram.png)
+![SR Diagram](images/SR%20Diagram.png)
