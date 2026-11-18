@@ -79,3 +79,10 @@ The two core business processes are **(1) multi vendor ordering, secure payment 
 ## BPMN Model: Strategic Enterprise Overview
 ![BPMN Model: Strategic Enterprise Overview](images/BRFN%20Strategic%20Enterprice%20Model.png)
 Figure 1: Strategic BPMN model showing the producer, marketplace, customer and payment provider pools 
+
+## I* Diagrams
+### SD Diagram
+![SD Diagram](images/SD%20Diagram.png)
+
+### SR Diagram
+![SR Diagram](iamges/SR%20Diagram.png)
