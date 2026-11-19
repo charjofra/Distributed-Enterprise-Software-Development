@@ -86,3 +86,7 @@ Figure 1: Strategic BPMN model showing the producer, marketplace, customer and p
 
 ### SR Diagram
 ![SR Diagram](images/SR%20Diagram.png)
+
+## Operational BPMN Diagrams
+![BPMN Model: Multivendor checkout](images/Multivendor%20checkout%20model.png)
+![BPMN Model: Weekly producer settlement](images/Weekly%20Producer%20Settlement%20Model.png)
